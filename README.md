@@ -8,6 +8,7 @@ OpenCV (pip install opencv-python)
 
 ### Clone Repository
 git clone https://github.com/subadevan2005/Facial-Recognition.git
+
 cd Facial-Recognition
 
 ### Download Haar Cascade Classifier
