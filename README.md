@@ -1,4 +1,4 @@
-# Facial Recognition using Haar Cascade Classifier
+# Real-Time Facial Recognition using OpenCV
 This project implements real-time facial recognition using Python and OpenCV with the Haar Cascade classifier. It detects faces in a video stream from the default camera, draws rectangles around them, and displays the processed video.
 
 ## Getting Started
